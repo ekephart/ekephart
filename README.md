@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is <b>Elliot</b>. I am a data analyst. This is where I keep public datasets
 <!--
 **ekephart/ekephart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
